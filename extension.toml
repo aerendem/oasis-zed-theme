@@ -1,0 +1,7 @@
+id = "oasis"
+name = "Oasis Theme"
+description = "A minimal, soothing theme for your high-frequency coding experience"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ali <alieren.demireller@gmail.com>"]
+repository = "https://github.com/aerendem/oasis-zed-theme"
